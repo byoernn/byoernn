@@ -7,6 +7,6 @@
 byoernn/byoernn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Meine GitHubPages:  
+  
+### Meine GitHub Pages:
 <a href="https://byoernn.github.io/strompreisrechner/" target="_blank">strompreisrechner</a>
